@@ -1,7 +1,5 @@
 # Advanced AWS Client VPN Demo - Create VPN Endpoint
 
-![Stage3 - PNG](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE3.png)
-
 This GitHub project provides step-by-step instructions for setting up an AWS Client VPN, allowing you to create a secure VPN endpoint. The project is divided into stages, and this section focuses on Stage 3 - Create VPN Endpoint.
 
 ## Stages Overview:
