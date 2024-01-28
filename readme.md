@@ -23,7 +23,7 @@ Ensure you are logged into AWS and in the `us-east-1` region. Execute the follow
 
 ## Instructions
 
-Detailed instructions for each stage are provided in separate markdown files:
+Stages:
 
 - [**Stage 1 - Create Directory Service (Authentication for VPN Users)**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage1.md)
 - [**Stage 2 - Certificates**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage2.md)
