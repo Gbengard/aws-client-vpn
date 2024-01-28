@@ -25,9 +25,9 @@ Ensure you are logged into AWS and in the `us-east-1` region. Execute the follow
 
 Detailed instructions for each stage are provided in separate markdown files:
 
-- [Stage 1 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage1.md)
-- [Stage 2 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage2.md)
-- [Stage 3 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage3.md)
-- [Stage 4 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage4.md)
-- [Stage 5 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage5.md)
-- [Stage 6 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage6.md)
+- [**Stage 1 - Create Directory Service (Authentication for VPN Users)**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage1.md)
+- [**Stage 2 - Certificates**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage2.md)
+- [**Stage 3 - Create VPN Endpoint**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage3.md)
+- [**Stage 4 - Configure VPN Endpoint & Associations**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage4.md)
+- [**Stage 5 - Download, Install, and Test VPN Client**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage5.md)
+- [**Stage 6 - Cleanup**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage6.md)
