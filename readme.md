@@ -25,9 +25,9 @@ Ensure you are logged into AWS and in the `us-east-1` region. Execute the follow
 
 Detailed instructions for each stage are provided in separate markdown files:
 
-- [Stage 1 Instructions](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE1.md)
-- [Stage 2 Instructions](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE2.md)
-- [Stage 3 Instructions](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE3.md)
-- [Stage 4 Instructions](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE4.md)
-- [Stage 5 Instructions](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE5.md)
-- [Stage 6 Instructions](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE6.md)
+- [Stage 1 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage1.md)
+- [Stage 2 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage2.md)
+- [Stage 3 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage3.md)
+- [Stage 4 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage4.md)
+- [Stage 5 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage5.md)
+- [Stage 6 Instructions](https://github.com/Gbengard/aws-client-vpn/blob/main/stage6.md)
