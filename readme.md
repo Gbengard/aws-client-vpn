@@ -1,4 +1,4 @@
-# AWS Client VPN Advanced Demonstration
+# AWS Client VPN Advanced Demo
 
 This GitHub project provides a comprehensive guide for configuring a secure client VPN deployment, enabling workstations to connect to an AWS Virtual Private Cloud (VPC) in a secure manner.
 
