@@ -49,3 +49,13 @@ Notice it doesn't work? One more step, and that's authorizations.
 6. Open a terminal and `ping DIRECTORY_SERVICE_IP_ADDRESS` (you can get this from the DS Console).
 7. Notice how this works? You are now connected.
 8. Browse to the Private IP Address of `CATWEB` instance using `http` (not https) – this also should work.
+
+
+Stages:
+
+- [**Stage 1 - Create Directory Service (Authentication for VPN Users)**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage1.md)
+- [**Stage 2 - Certificates**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage2.md)
+- [**Stage 3 - Create VPN Endpoint**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage3.md)
+- [**Stage 4 - Configure VPN Endpoint & Associations**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage4.md)
+- [**Stage 5 - Download, Install, and Test VPN Client**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage5.md) <= `YOU ARE HERE`
+- [**Stage 6 - Cleanup**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage6.md)
