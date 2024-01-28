@@ -1,3 +1,5 @@
+# AWS Client VPN Advanced Demo - Stage 6: CleanUp
+
 ## Project Stages:
 
 - **Stage 1 - Create Directory Service (Authentication for VPN Users)**
