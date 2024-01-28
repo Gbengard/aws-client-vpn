@@ -26,6 +26,6 @@
 
 The directory will start provisioning; it must complete and move into the `Active` state before proceeding to Stage 2.
 
-	![Untitled](images/Untitled1.png)
+![Untitled](images/Untitled1.png)
 
 **END OF STAGE 1**
