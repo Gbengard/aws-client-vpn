@@ -1,7 +1,5 @@
 # A4L Client VPN Setup Guide
 
-![Stage5 - PNG](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE5.png)
-
 ## Project Stages:
 
 1. **Stage 1 - Create Directory Service (authentication for VPN users)**
