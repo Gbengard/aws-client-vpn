@@ -48,7 +48,7 @@ aws acm import-certificate --certificate fileb://pki/issued/server.crt --private
    ```
 4. Import the server certificate into ACM:
    ```bash
-   aws acm import-certificate --certificate fileb://pki/issued/server.crt --private-key fileb://pki/private/server.key --certificate-chain fileb://pki/ca.crt --profile iamadmin-general
+   aws acm import-certificate --certificate fileb://pki/issued/server.crt --private-key fileb://pki/private/server.key --certificate-chain fileb://pki/ca.crt
    ```
 
 ### Verify Certificate in ACM
@@ -57,3 +57,12 @@ aws acm import-certificate --certificate fileb://pki/issued/server.crt --private
 2. Verify that your certificate exists in the `us-east-1` region.
 
 **END OF STAGE 2**
+
+Stages:
+
+- [**Stage 1 - Create Directory Service (Authentication for VPN Users)**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage1.md)
+- [**Stage 2 - Certificates**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage2.md) <= `YOU ARE HERE`
+- [**Stage 3 - Create VPN Endpoint**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage3.md)
+- [**Stage 4 - Configure VPN Endpoint & Associations**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage4.md)
+- [**Stage 5 - Download, Install, and Test VPN Client**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage5.md)
+- [**Stage 6 - Cleanup**](https://github.com/Gbengard/aws-client-vpn/blob/main/stage6.md)
