@@ -1,6 +1,3 @@
-```markdown
-![Stage6 - Cleanup](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-client-vpn/02_LABINSTRUCTIONS/STAGE6.png)
-
 ## Project Stages:
 
 - **Stage 1 - Create Directory Service (Authentication for VPN Users)**
@@ -41,7 +38,6 @@
 - Open Manage profiles.
 - Delete the A4L profile.
 - Optionally delete the AWS Client VPN Software.
-```
 
 Stages:
 
