@@ -4,7 +4,7 @@ This GitHub project provides a comprehensive guide for configuring a secure clie
 
 ## Overview
 
-The demonstration is structured into six stages, each progressively implementing additional components of the architecture:
+The demo is structured into six stages, each progressively implementing additional components of the architecture:
 
 1. **Stage 1 - Create Directory Service (Authentication for VPN Users)**
 2. **Stage 2 - Certificates**
